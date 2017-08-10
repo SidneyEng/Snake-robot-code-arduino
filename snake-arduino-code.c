@@ -1,5 +1,6 @@
 #include <Servo.h>
-
+/* Nesse codigo é possivel mover 4 servos motores. 
+ * O Codigo pode ser compilado no IDE do Arduino.*/
 Servo servo1;         
 Servo servo2;
 Servo servo3;
